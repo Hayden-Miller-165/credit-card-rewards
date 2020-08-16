@@ -1,12 +1,4 @@
 #!python3
-"""
-Created on Sun Aug 16 11:28:39 2020
-
-As an experienced Credit Card rewards user, I would like to know which credit 
-card to use for purchases based on the current reward categories and offers.
-
-@author: HM
-"""
 
 import datetime, math
 
