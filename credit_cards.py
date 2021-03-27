@@ -1,6 +1,7 @@
 #!python3
 
-import datetime, math
+import datetime
+import math
 
 cards = {
     'CARD 1': {'Q1': {'All': 1.5}
